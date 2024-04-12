@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="item_detailes">item detailes</string>
+    <string name="details">details</string>
+    <string name="calculate">Calculate</string>
+</resources>
